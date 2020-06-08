@@ -1,6 +1,6 @@
 {
   "name": "gitflow-explainer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "test repo to show how git flow works",
   "main": "index.js",
   "scripts": {
