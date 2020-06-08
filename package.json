@@ -1,0 +1,19 @@
+{
+  "name": "gitflow-explainer",
+  "version": "1.0.0",
+  "description": "test repo to show how git flow works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icecubed/gitflow-explainer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icecubed/gitflow-explainer/issues"
+  },
+  "homepage": "https://github.com/icecubed/gitflow-explainer#readme"
+}
